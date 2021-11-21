@@ -1,3 +1,3 @@
 ## Hello, I'm Milan
 
-Thats my TechStack: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/milan2sky/my-stack)
+That's my [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/milan2sky/my-stack)
